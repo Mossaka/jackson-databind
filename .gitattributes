@@ -11,3 +11,5 @@ pom.xml merge=ours
 
 release-notes/VERSION merge=ours
 release-notes/CREDITS merge=ours
+
+.github/workflows/*.lock.yml linguist-generated=true merge=ours
